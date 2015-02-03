@@ -3,8 +3,9 @@ TOEFL_timer
 A simple pure python script of a timer for TOEFL speaking/writing preparation.
 
 ## Usage
-py toefl_timer.py ([time by sec] | [question type][question number][optional:special time code])...
-
+```
+>py toefl_timer.py ([time by sec] | [question type][question number][optional:special time code])...
+```
 1.Question type
 
 type     |  code
