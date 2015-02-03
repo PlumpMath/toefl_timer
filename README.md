@@ -2,7 +2,7 @@ TOEFL_timer
 =======
 A simple pure python script of a timer for TOEFL speaking/writing preparation.
 
-# Usage
+## Usage
 py toefl_timer.py ([time by sec] | [question type][question number][optional:special time code])...
 
 1.Question type
@@ -24,7 +24,7 @@ Independent Writing   | 2
 Reading time for integrated problems : 'r'
 Skip preparation time : 's'
 
-# Example
+## Example
 * Simple timer for 30 seconds
 ```
 > py toefl_timer.py 30
@@ -46,7 +46,7 @@ Skip preparation time : 's'
 > py toefl_timer.py s1 s1s s1s s1s
 ```
 
-# Raw-data : time limits of TOEFL speaking/writing in problem numbers
+## Raw-data : time limits of TOEFL speaking/writing in problem numbers
 
 Number of problem  |Type name of problem| Reading time | Preparation time | Answering time
 -------------------|--------------------|:------------:|:----------------:|:---------------:|
@@ -56,4 +56,4 @@ Speaking 5-6       |Integrated speaking | none         | 20 seconds       | 60 s
 Writing 1          |Integrated writing  | 3 minutes    | none             | 20 minutes
 Writing 2          |Independent writing | none         | none             | 30 minutes
 
-Good luck with your test.
+> Good luck with your test.
