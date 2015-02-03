@@ -26,15 +26,23 @@ Skip preparation time : 's'
 
 ## Example
 * Simple timer for 30 seconds
+
 > py toefl_timer.py 30
+
 * Speaking problem no.1
+
 > py toefl_timer.py s1
+
 * Speaking problem no.1 without preparation time (useful for group studying)
+
 > py toefl_timer.py s1s
+
 * Integrated writing
+
 > py toefl_timer.py w2
 * Multiple timer in a row (useful for group studying)
 > py toefl_timer.py s1 s1s s1s s1s
+
 
 ## Raw-data : time limits of TOEFL speaking/writing in problem numbers
 
