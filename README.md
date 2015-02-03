@@ -7,13 +7,13 @@ py toefl_timer.py ([time by sec] | [question type][question number][optional:spe
 
 1.Question type
 type     |  code
----------|:--------:
+---------|:--------:|
 Speaking | s
 Writing  | w
 
 2.Question number
 type                  | value range
-----------------------|:-------------:
+----------------------|:-------------:|
 Speaking              |   1-6
 Integrated Writing    |   1
 Independent Writing   |   2
@@ -37,7 +37,7 @@ Skip preparation time : 's'
 # Raw-data : time limits of TOEFL speaking/writing in problem numbers
 
 Number of problem  |Type name of problem| Reading time | Preparation time | Answering time
--------------------|--------------------|:------------:|:----------------:|:---------------:
+-------------------|--------------------|:------------:|:----------------:|:---------------:|
 Speaking 1-2       |Independent speaking| none         | 15 seconds       | 45 seconds
 Speaking 3-4       |Integrated speaking | 50 seconds   | 30 seconds       | 60 seconds
 Speaking 5-6       |Integrated speaking | none         | 20 seconds       | 60 seconds
